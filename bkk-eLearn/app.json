@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bkk-eLearn",
+    "slug": "bkk-eLearn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bkk-eLearn"
+}
